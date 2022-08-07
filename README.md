@@ -1,9 +1,14 @@
 # SASS Documentation
 
 ## Learning outcomes
-
 1. Introduction to SASS
-1. SASS Variables & CSS Rules nesting
+2. SASS Variables & CSS Rules nesting
+3. Partials & SASS folder structure
+4. @mixin and @include
+5. inheriting css styles using @extend
+6. @if, @else if, @else
+7. @for, @while loop
+8. @map over items using @each
 
 ### 1. [Introduction to SASS](https://youtu.be/fL-XB_IpWV4)
 
